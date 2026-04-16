@@ -8,7 +8,7 @@ Euro pallets (aka EU or EPAL) are everywhere. This project is a 3D model with a 
 
 - [Project summary page on our website](https://www.heterodox.se/projects/euro-pallet/)
 
-- Bambu Lab page <!-- TODO: add link -->
+- [Maker World page](https://makerworld.com/en/models/2668359-euro-pallet-1-10-scale-with-magnets-for-stacking#profileId-2953096)
 
 ## CAD files
 
