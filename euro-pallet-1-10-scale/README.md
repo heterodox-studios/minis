@@ -8,7 +8,7 @@ Euro pallets (aka EU or EPAL) are everywhere. This project is a 3D model with a 
 
 - [Project summary page on our website](https://www.heterodox.se/projects/euro-pallet/)
 
-- Bambu Lab makers space thing
+- Bambu Lab page <!-- TODO: add link -->
 
 ## CAD files
 
