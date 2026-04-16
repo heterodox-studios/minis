@@ -21,23 +21,23 @@ This documentation refers to [version 7](https://cad.onshape.com/documents/e4d7c
 
 ## Assembly instructions
 
-There is a jig tab in the Onshape document that might be useful if you are assembling many. After printing out push as many magnets (5mm diameter) as will fit into the holes. Make sure that the poles are consistent - this will set the pole direction for all pallets you create with this jig.
+There is a jig tab in the Onshape document that might be useful if you are assembling many at once. After printing, push as many magnets (5 mm diameter) as will fit into the holes. Make sure that the poles are consistent — this will set the pole direction for all pallets you create with this jig.
 
-To use the jig put the pallet body into it top downwards. You can drop the magnets into the big holes and they will orientate themselves on account of the magnets embedded in the jig. See the exploded view below:
+To use the jig, put the pallet body into it top downwards. You can drop the magnets into the big holes and they will orientate themselves due to the magnets embedded in the jig. See the exploded view below:
 
 ![Exploded view of jig assembly](<jig assembly exploded.png>)
 
 It takes quite a bit of force to push the bottom runners in. Glue should not be necessary.
 
-A tip is to heat the body of the pallet and let the other parts be cool. The warming will expand the holes a little making it easier to put in the cooler (hence smaller) pegs. I set the 3D printer heatbed to 50° and pile them up on that for a while before assembly - having an enclosed printer probably helps.
+One tip: heat the body of the pallet and let the other parts stay cool. The heat expands the holes slightly, making it easier to insert the cooler (hence smaller) pegs. I set the 3D printer heatbed to 50° and pile them up on that for a while before assembly - having an enclosed printer probably helps.
 
 
-## Note on the magnets
+## Magnets
 
 The magnets are optional. They make it much easier to stack the pallets.
 
-I use 2 mm thick disc magnets, either 5 mm or 6 mm diameter. The pocket they sit in is large enough that they can move around which lets you stack the pallets a bit unevenly which looks better.
+I use 2 mm thick disc magnets, either 5 mm or 6 mm diameter. The pocket they sit in is large enough to allow some movement, so you can stack the pallets a bit unevenly — which looks more natural.
 
-When the pallet is not stacked the two magnets attract each other and stick to the spacer, which prevents them rattling around.
+When the pallet is not stacked, the two magnets attract each other and stick to the spacer, which prevents them rattling around.
 
-When you place a pallet on another you'll hear a click as the magnets jump into position.
+When you place a pallet on another, you'll hear a click as the magnets jump into position.

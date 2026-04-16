@@ -29,7 +29,7 @@ The product is a small decorative item. It is 3D printed and distributed in a va
 : 120 mm by 80 mm by 15 mm.
 
 **Weight**
-: approx 50g
+: approx. 50g
 
 ## Trade codes
 
@@ -56,7 +56,7 @@ EU CN code: `3926 90 97`
 
 This product presents no unusual hazards when used for its intended purpose by an adult.
 
-**EU**: There are no specific EU rules applicable to this product. It has been self-assessed to comply with the General product safety regulation. 
+**EU**: There are no specific EU rules applicable to this product. It has been self-assessed to comply with the General Product Safety Regulation. 
 
 ## Test Reports and Certificates
 

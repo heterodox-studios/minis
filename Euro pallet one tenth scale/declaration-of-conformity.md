@@ -22,7 +22,7 @@ Products have SKUs in the form “pallet-pla-CC-XX” where CC is colour code an
 
 ### Declaration:
 
-We declare under our sole responsibility that the above named product is in conformity with the following European Union directive:
+We declare under our sole responsibility that the above-named product is in conformity with the following European Union directive:
 
 - None applicable
 
