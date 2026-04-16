@@ -56,7 +56,7 @@ EU CN code: `3926 90 97`
 
 This product presents no unusual hazards when used for its intended purpose by an adult.
 
-**EU**: There are no specific EU rules applicable to this product. It has been self assessed to comply with the General product safety regulation. 
+**EU**: There are no specific EU rules applicable to this product. It has been self-assessed to comply with the General product safety regulation. 
 
 ## Test Reports and Certificates
 
