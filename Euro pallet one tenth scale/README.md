@@ -27,7 +27,9 @@ To use the jig put the pallet body into it top downwards. You can drop the magne
 
 ![Exploded view of jig assembly](<jig assembly exploded.png>)
 
-It takes quite a bit of force to push the bottom runners in, I use a woodworking vice. Glue should not be necessary.
+It takes quite a bit of force to push the bottom runners in. Glue should not be necessary.
+
+A tip is to heat the body of the pallet and let the other parts be cool. The warming will expand the holes a little making it easier to put in the cooler (hence smaller) pegs. I set the 3D printer heatbed to 50° and pile them up on that for a while before assembly - having an enclosed printer probably helps.
 
 
 ## Note on the magnets
