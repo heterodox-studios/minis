@@ -14,9 +14,11 @@ info@heterodox.se
 
 ### Product description:
 
-TODO - short description of the product, materials, and any variants (e.g. colours, sizes).
+A wall-mounted paper roll holder. Paper feeds from a roll on a lower shelf, up the wall, and onto a take-up roll at the top. Magnets hold the paper flat for writing. Constructed from four powder-coated steel pieces (0.8 mm), four plastic spacers, four screws and two magnets. Sold flat-packed.
 
-TODO - SKU pattern, e.g. SKUs have the form "vaggrulle-pla-CC-XX" where CC is colour code and XX is number per pack.
+Product is available in several powder-coat colours.
+
+Products have SKUs in the form "vaggrulle-CC" where CC is the colour code. For example `vaggrulle-wh` is a white unit.
 
 ### Declaration:
 

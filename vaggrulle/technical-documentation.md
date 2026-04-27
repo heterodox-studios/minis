@@ -1,26 +1,26 @@
-# Vaggrulle Technical documentation
+# VÄGGRULLE Technical documentation
 
-TODO - one or two sentences describing the product.
+A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and rolls onto a take-up roll at the top. Magnets hold the paper flat so it can be written on like a whiteboard.
 
 ## Product Details
 
 **Product name**
-: TODO - full product name
+: VÄGGRULLE wall-mounted paper roll holder
 
 **Model number**
 : N/A
 
 **SKU**
-: TODO - SKU pattern, e.g. "vaggrulle-pla-CC-XX" where CC is colour code and XX is pack size.
+: SKUs take the form "vaggrulle-CC" where CC is colour code. For example `vaggrulle-wh` is a white unit.
 
 **Intended use**
-: TODO - e.g. Home decor
+: Wall-mounted writing surface and shelving for home or office use.
 
 **Target user group**
-: Adults
+: Adults. Suitable for use by children under adult supervision.
 
 **Technical specifications**
-: TODO - materials, parts (e.g. 3D printed from PLA, contains N captive disc magnets).
+: Powder-coated folded steel construction with plastic spacers and small neodymium magnets.
 
 **Declaration of Conformity (DoC)**
 : [Content available here](./declaration-of-conformity.md) (Signed copy available on request)
@@ -45,16 +45,25 @@ EU CN code: `TODO`
 
 ## Bill of Materials
 
-**Body**
-: TODO
+**Steel parts**
+: 4 × pieces of 0.8 mm steel, punched, folded and powder-coated.
+
+**Spacers**
+: 4 × plastic spacers that set the paper feed gap.
+
+**Fasteners**
+: 4 × painted wood screws (mounting hardware for the wall).
 
 **Magnets**
-: TODO - if applicable, otherwise remove.
+: 2 × neodymium disc magnets that hold the paper flat against the writing surface.
+
+**Paper roll** (not supplied)
+: Compatible with standard drawing-paper rolls such as IKEA MÅLA.
 
 
 ## Safety and Risk Assessment
 
-This product presents no unusual hazards when used for its intended purpose by an adult.
+This product presents no unusual hazards when used for its intended purpose by an adult. The unit is wall-mounted and must be securely fixed to a wall capable of bearing its weight; mounting hardware should be appropriate to the wall material. The neodymium magnets are captive in the assembly during use; they should be kept away from small children and from sensitive electronic devices, pacemakers and magnetic storage media.
 
 **EU**: There are no specific EU rules applicable to this product. It has been self-assessed to comply with the General Product Safety Regulation.
 
@@ -66,7 +75,9 @@ None
 
 ### Assembly
 
-TODO - assembly instructions, or "No assembly required".
+The unit ships flat. Mount the lower steel piece to the wall with the four supplied screws (use wall plugs appropriate to the wall material). Insert the four plastic spacers, then mount the upper steel piece above. Drop in a paper roll, feed the leading edge up behind the upper shelf and onto the take-up roll, and tape it in place. Place the two magnets on the writing surface to hold the paper flat.
+
+Two-person installation, approximately 10 minutes.
 
 ### Maintenance and cleaning advice
 
@@ -78,11 +89,13 @@ Do not wash in dishwasher. Do not expose to high heat.
 
 ## Safety Information
 
-None required.
+Ensure the unit is fixed to a wall capable of supporting its weight, using fixings appropriate to the wall material.
+
+Keep the magnets away from small children, pacemakers and other implanted medical devices, and from magnetic storage media.
 
 ## Warnings and precautions
 
-None required.
+Not a toy. Adult installation required.
 
 ## Manufacturer
 
