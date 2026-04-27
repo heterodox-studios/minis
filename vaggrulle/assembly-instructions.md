@@ -1,10 +1,8 @@
 # VÄGGRULLE — Assembly instructions
 
-Two-person installation, approximately 10 minutes.
-
 ## What's in the box
 
-- 4 × powder-coated steel parts (lower roll holder, upper roll holder, two end caps)
+- 4 × powder-coated steel parts (labelled A–D in the exploded diagram below)
 - 4 × plastic spacers
 - 4 × painted screws (suitable for wooden or thin sheet-metal walls — for masonry or plasterboard, source appropriate wall plugs)
 - 2 × powder-coated magnets
@@ -14,49 +12,67 @@ You will also need:
 - A drill with a bit suited to your wall material
 - A spirit level
 - A pencil
-- A screwdriver matching the supplied screws
+- A screwdriver matching the supplied screws (PH2)
 - One 45 cm wide paper roll, e.g. IKEA MÅLA (article 704.610.88)
 
 ## Choose a location
 
-Pick a wall and a height that suits whoever will be writing on the unit most. The unit can be mounted high or low, on its own or above a desk. Allow at least the full height of the assembled unit plus the diameter of a fresh paper roll above and below.
+Pick a wall and a height that suits whoever will be writing on the unit most. The unit can be mounted high or low, on its own or above a desk.
 
-The mounting wall must be capable of supporting the weight of the unit (~2 kg empty, plus the paper roll) and of withstanding the modest sideways pull when paper is fed through.
+The wall should be smooth enough so it is easy to write on, and resilient to any leaking through the paper by ink pens or tip pressure from other types of pen.
 
-## Step 1 — mount the lower steel piece
+If there are children present ensure the top shelf is out of their reach. They should not be able to reach the magnets or pens you place on the top small shelf (eg permanent markers).
 
-1. Hold the lower steel piece against the wall at the chosen height.
-2. Use the spirit level to ensure it is horizontal.
-3. Mark the screw positions with a pencil.
-4. Set the part aside, drill the holes, and insert wall plugs if required.
-5. Fix the lower piece to the wall using two of the supplied screws.
+The mounting wall must be capable of supporting the weight of the unit plus the paper roll and items placed on the shelves.
 
-## Step 2 — fit the spacers
+## Note on fixings
 
-Place the four plastic spacers into the locating features on the lower piece. The spacers set the gap that the paper feeds through; the unit will not work correctly without them.
+The supplied screws are appropriate for the following walls:
+
+- Wooden walls.
+- Thin sheet-metal walls (the screws will self-tap).
+- Plasterboard backed by plywood or OSB.
+
+For other wall types please use appropriate fixings — the supplied screws may not hold.
+
+## Assembly drawing
+
+![Exploded view of parts](./exploded-parts.png)
+
+## Step 1 — mark the upper screw holes
+
+1. Hold part A against the wall to determine where the top half will sit.
+2. Use a spirit level to ensure it is horizontal.
+3. Mark the wall through the holes to show where the screws will go.
+
+## Step 2 — prepare the screw holes
+
+1. If using the supplied screws, drive each one halfway in and then remove it to start the thread.
+2. For other fixings (or if using wall plugs), drill the hole to the appropriate diameter and depth.
 
 ## Step 3 — mount the upper steel piece
 
-1. Hold the upper steel piece in position above the lower piece, aligned vertically.
-2. Mark, drill, and fix it to the wall using the remaining two screws, again checking it is level.
-3. Confirm the assembly is rigid and the spacers are seated.
+1. Using a screw as a guide, assemble part A, one larger spacer and part B (see the exploded diagram).
+2. Position the screw in the prepared hole and partially screw it in — leave a bit of slack.
+3. Repeat with the second screw on the other side, again leaving slack.
+4. Place a spirit level on the shelf, adjust until level, and tighten both screws.
 
-## Step 4 — load the paper roll
+## Step 4 — mount the lower steel piece
 
-1. Drop a fresh paper roll into the lower holder.
-2. Pull the leading edge of the paper upwards, in front of the wall, behind the upper shelf, and over the take-up bar at the top.
-3. Tape or tuck the leading edge onto the take-up roll.
-4. Take up any slack by rotating the take-up roll.
+1. Mark and prepare the lower screw holes as above. Make sure they are vertically below the upper ones.
+2. Assemble part C, the two smaller spacers and part D (see the exploded diagram), and fix to the wall in the same way.
 
-## Step 5 — fit the magnets
+## Step 5 — load the paper roll
 
-Place the two magnets on the writing surface to hold the paper flat. They will stay attracted to the steel behind the paper.
+1. Unroll a short length of paper from the roll and feed it up through the slot in the lower part.
+2. Place the roll in the tray.
+3. Pull the leading edge of the paper upwards, through the slot in the upper part, and let it roll back up on the top shelf.
+4. Place the two magnets on the paper just below the upper shelf to hold the paper flat against the wall.
+5. If the paper is loose, rotate the bottom roll slightly to create tension, then reposition the magnets.
 
 ## Using the unit
 
-- To advance fresh paper, pull gently downwards from the bottom — more paper feeds up from the lower roll.
-- To archive what you've written, rotate the take-up roll at the top so the used paper winds away.
-- To change the roll, remove the take-up roll, cut the paper free, drop in a fresh lower roll, and re-thread as in Step 4.
+- To advance fresh paper: remove the magnets, gently rotate the top roll to pull paper up from the bottom, then replace the magnets.
 
 ## Safety notes
 
