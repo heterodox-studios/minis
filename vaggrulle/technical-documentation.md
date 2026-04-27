@@ -1,6 +1,6 @@
 # VÄGGRULLE Technical documentation
 
-A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and rolls onto a take-up roll at the top. Magnets hold the paper flat so it can be written on like a whiteboard.
+A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and rolls onto a take-up roll at the top. Magnets hold the paper flat so it can be written on like a whiteboard. Has two integrated shelves for writing accessories.
 
 ## Product Details
 
@@ -14,7 +14,7 @@ A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and 
 : SKUs take the form "vaggrulle-CC" where CC is colour code. For example `vaggrulle-wh` is a white unit.
 
 **Intended use**
-: Wall-mounted writing surface and shelving for home or office use.
+: Wall-mounted paper roll holder and shelving for home or office use.
 
 **Target user group**
 : Adults. Suitable for use by children under adult supervision.
@@ -26,10 +26,10 @@ A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and 
 : [Content available here](./declaration-of-conformity.md) (Signed copy available on request)
 
 **Dimensions**
-: TODO - L mm by W mm by H mm.
+: 110 mm by 500 mm by 110 mm (when nested).
 
 **Weight**
-: TODO - approx. Ng
+: 2 kg (approx)
 
 ## Trade codes
 
@@ -74,18 +74,18 @@ for three years.
 : 4 × plastic spacers that set the paper feed gap.
 
 **Fasteners**
-: 4 × painted wood screws (mounting hardware for the wall).
+: 4 × painted screws (mounting hardware suitable for wooded or thin sheet metal walls).
 
 **Magnets**
-: 2 × neodymium disc magnets that hold the paper flat against the writing surface.
+: 2 × powder-coasted magnets that hold the paper flat against the writing surface.
 
 **Paper roll** (not supplied)
-: Compatible with standard drawing-paper rolls such as IKEA MÅLA.
+: Compatible with standard 45 cm wide drawing-paper rolls such as IKEA MÅLA (article 704.610.88).
 
 
 ## Safety and Risk Assessment
 
-This product presents no unusual hazards when used for its intended purpose by an adult. The unit is wall-mounted and must be securely fixed to a wall capable of bearing its weight; mounting hardware should be appropriate to the wall material. The neodymium magnets are captive in the assembly during use; they should be kept away from small children and from sensitive electronic devices, pacemakers and magnetic storage media.
+This product presents no unusual hazards when used for its intended purpose by an adult.
 
 **EU**: There are no specific EU rules applicable to this product. It has been self-assessed to comply with the General Product Safety Regulation.
 
@@ -97,9 +97,9 @@ None
 
 ### Assembly
 
-The unit ships flat. Mount the lower steel piece to the wall with the four supplied screws (use wall plugs appropriate to the wall material). Insert the four plastic spacers, then mount the upper steel piece above. Drop in a paper roll, feed the leading edge up behind the upper shelf and onto the take-up roll, and tape it in place. Place the two magnets on the writing surface to hold the paper flat.
-
-Two-person installation, approximately 10 minutes.
+ The unit is wall-mounted and must be securely fixed to a wall capable of bearing its weight; mounting hardware should be appropriate to the wall material. 
+ 
+ Basic installation involving fixing two parts to the wall, see seperate [assembly document](TODO).
 
 ### Maintenance and cleaning advice
 
@@ -107,13 +107,16 @@ No maintenance required.
 
 Wipe clean with a soft, damp cloth. Avoid using abrasive cleaners or harsh chemicals.
 
-Do not wash in dishwasher. Do not expose to high heat.
 
 ## Safety Information
 
 Ensure the unit is fixed to a wall capable of supporting its weight, using fixings appropriate to the wall material.
 
-Keep the magnets away from small children, pacemakers and other implanted medical devices, and from magnetic storage media.
+Do not overload shelving.
+
+Paper is flamable - do not place sources of ignition (eg TODO) on shelves.
+
+Keep the magnets out of reach from small children, away from pacemakers and other implanted medical devices, and from magnetic storage media.
 
 ## Warnings and precautions
 
