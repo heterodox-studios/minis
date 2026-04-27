@@ -23,26 +23,19 @@ https://cad.onshape.com/documents/TODO
 This documentation refers to [version TODO](https://cad.onshape.com/documents/TODO/v/TODO/e/TODO) of the design, later versions may differ.
 
 
-## Assembly instructions
+## Documentation
 
-Installation is two people, about ten minutes.
-
-1. Decide on a height. The unit can be mounted high or low — match it to whoever will be writing on it most.
-2. Mark and drill the four mounting holes for the lower steel piece (the feed shelf with the paper roll). Fix it to the wall using suitable wall plugs and the four supplied screws.
-3. Slide the four plastic spacers between the steel pieces — they set the gap that the paper feeds through.
-4. Fix the upper steel piece (the take-up roll and small shelf) above the lower one, aligned vertically.
-5. Drop a fresh paper roll into the bottom holder. Feed the leading edge up the wall, behind the small upper shelf, and onto the take-up roll at the top. Tape it in place.
-6. Place the two magnets on the writing surface to keep the paper flat.
-
-To advance the paper, simply roll the take-up roll at the top — used paper winds away into the archive.
+- [Assembly instructions](./assembly-instructions.md) — how to mount the unit and load a paper roll.
+- [Technical documentation](./technical-documentation.md) — dimensions, materials, trade codes, safety.
+- [Declaration of conformity](./declaration-of-conformity.md) — EU DoC.
 
 
 ## Bill of materials
 
 - 4 × steel parts, 0.8 mm, punched, folded, powder-coated
-- 4 × plastic spacers (set the paper gap)
-- 4 × painted screws
-- 2 × magnets
-- 1 × paper roll (e.g. IKEA MÅLA drawing paper roll)
+- 4 × plastic spacers (set the paper feed gap)
+- 4 × painted screws (suitable for wooden or thin sheet-metal walls; for masonry or plasterboard, use appropriate wall plugs)
+- 2 × powder-coated magnets
+- 1 × paper roll, 45 cm wide (e.g. IKEA MÅLA, article 704.610.88) — not supplied
 
-All parts nest together and ship flat in a single box.
+All parts nest together and ship flat: 110 × 500 × 110 mm, approx. 2 kg.

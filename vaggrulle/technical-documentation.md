@@ -99,7 +99,7 @@ None
 
  The unit is wall-mounted and must be securely fixed to a wall capable of bearing its weight; mounting hardware should be appropriate to the wall material. 
  
- Basic installation involving fixing two parts to the wall, see seperate [assembly document](TODO).
+ Basic installation involving fixing two parts to the wall, see separate [assembly document](./assembly-instructions.md).
 
 ### Maintenance and cleaning advice
 
