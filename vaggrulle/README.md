@@ -27,6 +27,7 @@ This documentation refers to [version TODO](https://cad.onshape.com/documents/TO
 
 - [Assembly instructions](./assembly-instructions.md) — how to mount the unit and load a paper roll.
 - [Safety information](./safety.md) — customer-facing safety summary. Read before installing or using.
+- [Safety information (all EU languages)](./safety-eu.md) — the same summary in English plus the 24 official EU languages.
 - [Technical documentation](./technical-documentation.md) — dimensions, materials, trade codes, safety assessment.
 - [Declaration of conformity](./declaration-of-conformity.md) — EU DoC.
 
