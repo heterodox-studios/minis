@@ -1,5 +1,7 @@
 # VÄGGRULLE
 
+![VÄGGRULLE mounted on a wall, with a hand-drawn diagram on the paper showing the shelves and the upward-feeding paper scroll](./vaggrulle-in-use.jpg)
+
 A wall-mounted paper roll holder with a twist: paper feeds from the *bottom*, not the top. Fresh paper rolls up from a lower shelf, climbs the wall behind a small upper shelf, and the used portion winds itself onto a take-up roll at the top. Magnets hold the sheet flat so you can write on it like a whiteboard — but nothing ever needs to be erased.
 
 Bottom-feed matches how we write: when you need more space, you pull more paper down from above what you've just written. Receipts, sketches and to-do lists all roll quietly into the archive, and you decide what to do with them when the roll runs out.
