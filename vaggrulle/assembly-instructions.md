@@ -80,3 +80,5 @@ For other wall types please use appropriate fixings — the supplied screws may 
 - Paper is flammable — keep sources of ignition away from the unit.
 - Keep the magnets out of reach of small children. Keep them away from pacemakers, other implanted medical devices and magnetic storage media.
 - This product is not a toy. Adult installation required.
+
+For the full customer safety summary, see [safety.md](./safety.md).

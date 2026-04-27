@@ -156,6 +156,8 @@ Wipe clean with a soft, damp cloth. Avoid using abrasive cleaners or harsh chemi
 
 ## Safety Information
 
+The customer-facing safety summary is provided in [safety.md](./safety.md). The key points are reproduced here for completeness:
+
 Ensure the unit is fixed to a wall capable of supporting its weight, using fixings appropriate to the wall material.
 
 Do not overload the shelves.
