@@ -14,9 +14,9 @@ info@heterodox.se
 
 ### Product description:
 
-A wall-mounted paper roll holder. Paper feeds from a roll on a lower shelf, up the wall, and onto a take-up roll at the top. Magnets hold the paper flat for writing. Constructed from four powder-coated steel pieces (0.8 mm), four plastic spacers, four screws and two magnets. Sold flat-packed.
+A wall-mounted paper roll holder. Paper feeds from a roll on a lower shelf, up the wall, and onto a take-up roll at the top. Magnets hold the paper in place. Constructed from four powder-coated steel pieces (0.8 mm), four plastic spacers, four screws and two magnets. Sold unassembled.
 
-Product is available in several powder-coat colours.
+Product may be available in several powder-coat colours.
 
 Products have SKUs in the form "vaggrulle-CC" where CC is the colour code. For example `vaggrulle-wh` is a white unit.
 
@@ -42,11 +42,11 @@ The conformity assessment procedure has been performed by the manufacturer.
 
 *Place of issue*: Stockholm, Sweden.
 
-*Date of issue*: TODO - YYYY-MM-DD
+*Date of issue*: 2026-04-27
 
-*Authorized person*: Edmund von der Burg (Director)
+*Authorised person*: Edmund von der Burg (Director)
 
-*Signature of authorized person*:
+*Signature of authorised person*:
     <br />
     <br />
     <br />

@@ -1,6 +1,6 @@
 # VÄGGRULLE Technical documentation
 
-A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and rolls onto a take-up roll at the top. Magnets hold the paper flat so it can be written on like a whiteboard. Has two integrated shelves for writing accessories.
+A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and rolls onto a take-up roll at the top. Magnets hold the paper in place so it can be written on like a whiteboard. Two integrated shelves provide space for writing accessories.
 
 ## Product Details
 
@@ -20,7 +20,7 @@ A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and 
 : Adults. Suitable for use by children under adult supervision.
 
 **Technical specifications**
-: Powder-coated folded steel construction with plastic spacers and small neodymium magnets.
+: Powder-coated folded steel construction with plastic spacers and small magnets.
 
 **Declaration of Conformity (DoC)**
 : [Content available here](./declaration-of-conformity.md) (Signed copy available on request)
@@ -74,10 +74,10 @@ for three years.
 : 4 × plastic spacers that set the paper feed gap.
 
 **Fasteners**
-: 4 × painted screws (mounting hardware suitable for wooded or thin sheet metal walls).
+: 4 × painted screws (mounting hardware suitable for wooden or thin sheet-metal walls).
 
 **Magnets**
-: 2 × powder-coasted magnets that hold the paper flat against the writing surface.
+: 2 × powder-coated magnets that hold the paper in place.
 
 **Paper roll** (not supplied)
 : Compatible with standard 45 cm wide drawing-paper rolls such as IKEA MÅLA (article 704.610.88).
@@ -87,7 +87,7 @@ for three years.
 
 This product presents no unusual hazards when used for its intended purpose by an adult.
 
-**EU**: There are no specific EU rules applicable to this product. It has been self-assessed to comply with the General Product Safety Regulation.
+**EU**: No harmonised product-specific legislation applies. The product has been self-assessed against, and complies with, Regulation (EU) 2023/988 on general product safety (GPSR). REACH (EC) 1907/2006 obligations have been considered: suppliers have confirmed that no Substances of Very High Concern are present above 0.1% w/w. The product is not within scope of the Toy Safety Directive 2009/48/EC, RoHS, WEEE, the Machinery Regulation, or the Construction Products Regulation. See the [Declaration of Conformity](./declaration-of-conformity.md) for the full statement.
 
 ## Test Reports and Certificates
 
@@ -97,9 +97,9 @@ None
 
 ### Assembly
 
- The unit is wall-mounted and must be securely fixed to a wall capable of bearing its weight; mounting hardware should be appropriate to the wall material. 
- 
- Basic installation involving fixing two parts to the wall, see separate [assembly document](./assembly-instructions.md).
+The unit is wall-mounted and must be securely fixed to a wall capable of bearing its weight; mounting hardware should be appropriate to the wall material.
+
+Basic installation involves fixing the parts to the wall — see the separate [assembly document](./assembly-instructions.md).
 
 ### Maintenance and cleaning advice
 
@@ -112,11 +112,11 @@ Wipe clean with a soft, damp cloth. Avoid using abrasive cleaners or harsh chemi
 
 Ensure the unit is fixed to a wall capable of supporting its weight, using fixings appropriate to the wall material.
 
-Do not overload shelving.
+Do not overload the shelves.
 
-Paper is flamable - do not place sources of ignition (eg TODO) on shelves.
+Paper is flammable — do not place sources of ignition (e.g. lit candles, incense, tea-lights) on the shelves or near the unit.
 
-Keep the magnets out of reach from small children, away from pacemakers and other implanted medical devices, and from magnetic storage media.
+Keep the magnets out of reach of small children, and away from pacemakers and other implanted medical devices, and from magnetic storage media.
 
 ## Warnings and precautions
 
