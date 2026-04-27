@@ -6,21 +6,19 @@ Bottom-feed matches how we write: when you need more space, you pull more paper 
 
 ## Web links
 
-- Buy them [ready made from us](https://shop.heterodox.se/products/TODO)
+- Buy them [ready made from us](https://shop.heterodox.se/products/vaggrulle-wall-roll-holder)
 
 - [Project summary page on our website](https://www.heterodox.se/projects/vaggrulle/)
 
-- [Maker World page](https://makerworld.com/en/models/TODO)
-
-- [Watch on YouTube](https://www.youtube.com/watch?v=TODO)
+<!-- - [Watch pitch to IKEA on YouTube](https://www.youtube.com/watch?v=TODO) -->
 
 ## CAD files
 
 The 3D designs are all in Onshape in a public document:
 
-https://cad.onshape.com/documents/TODO
+https://cad.onshape.com/documents/37ab526814be1d3adfa3d88a/
 
-This documentation refers to [version TODO](https://cad.onshape.com/documents/TODO/v/TODO/e/TODO) of the design, later versions may differ.
+This documentation refers to [version 1](https://cad.onshape.com/documents/37ab526814be1d3adfa3d88a/v/1ec049ebcb0c11318d4d0ec1/e/14498056990fb952585da8d3?showReturnToWorkspaceLink=true) of the design, later versions may differ.
 
 
 ## Documentation
