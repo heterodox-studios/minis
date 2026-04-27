@@ -33,14 +33,36 @@ A wall-mounted paper roll holder. Paper feeds from the bottom, up the wall, and 
 
 ## Trade codes
 
-HS code: `TODO`
+HS code: `8304.00`
 
-EU CN code: `TODO`
+EU CN code: `8304 00 00`
 
-- TODO - Section description (`Section TODO`)
-  - TODO - Chapter description (`Chapter TODO`)
-    - TODO - Heading description (`TODO`)
-      - TODO - Subheading description (`TODO`)
+- Base metals and articles of base metal (`Section XV`)
+  - Miscellaneous articles of base metal (`Chapter 83`)
+    - Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment, of base metal, other than office furniture of heading 9403 (`8304`)
+      - (single subheading) (`8304 00 00`)
+
+<!--
+Classification rationale: the product is dominated by powder-coated folded
+steel (≈90% by mass) with minor plastic spacers, magnets and screws. Its
+primary function is holding paper for writing — i.e. office/desk equipment
+of base metal. By GIR 3(b) (essential character), steel governs the
+classification.
+
+Alternatives considered:
+  * 7326.90 ("Other articles of iron or steel, other") — broader fallback
+    if 8304 is contested on the grounds that the unit is wall-mounted
+    rather than sitting on a desk. Many wall fittings of steel end up
+    here. Less specific than 8304, so 8304 should prevail under GIR 3(a).
+  * 9403.20 ("Other metal furniture") — only applies if reclassified as
+    furniture. A stretch: the shelves are incidental, the dominant
+    function is paper handling, not storage.
+
+If commercial volumes warrant it, request a Binding Tariff Information
+(BTI) ruling from Tullverket — free, ~weeks to issue, legally binding
+for three years.
+-->
+
 
 
 ## Bill of Materials
