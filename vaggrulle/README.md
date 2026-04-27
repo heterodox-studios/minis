@@ -18,7 +18,7 @@ Bottom-feed matches how we write: when you need more space, you pull more paper 
 
 The 3D designs are all in Onshape in a public document:
 
-https://cad.onshape.com/documents/37ab526814be1d3adfa3d88a/
+https://cad.onshape.com/documents/37ab526814be1d3adfa3d88a/w/21a39b4a91f2cb46bf5f886b/e/14498056990fb952585da8d3
 
 This documentation refers to [version 1](https://cad.onshape.com/documents/37ab526814be1d3adfa3d88a/v/1ec049ebcb0c11318d4d0ec1/e/14498056990fb952585da8d3?showReturnToWorkspaceLink=true) of the design, later versions may differ.
 
