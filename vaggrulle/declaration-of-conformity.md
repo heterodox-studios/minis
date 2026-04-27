@@ -14,7 +14,7 @@ info@heterodox.se
 
 ### Product description:
 
-A wall-mounted paper roll holder. Paper feeds from a roll on a lower shelf, up the wall, and onto a take-up roll at the top. Magnets hold the paper in place. Constructed from four powder-coated steel pieces (0.8 mm), four plastic spacers, four screws and two magnets. Sold unassembled.
+A wall-mounted paper roll holder. Paper feeds from a roll on a lower shelf, up the wall, and onto a take-up roll at the top. Magnets hold the paper in place. Constructed from four powder-coated steel pieces (0.8 mm), four plastic spacers, four screws and two magnets. Supplied as flat-pack components for wall-mounted assembly by the user.
 
 Product may be available in several powder-coat colours.
 

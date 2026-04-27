@@ -172,7 +172,7 @@ Not a toy. Adult installation required.
 
 ## Manufacturer
 
-Designed and manufactured by Heterodox AB - [contact details](https://www.heterodox.se/contact)
+Designed and manufactured by Heterodox AB — [contact details](https://www.heterodox.se/contact)
 
 ## Market Surveillance and Incident Reporting Procedures
 

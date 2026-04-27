@@ -10,7 +10,9 @@ Bottom-feed matches how we write: when you need more space, you pull more paper 
 
 - [Project summary page on our website](https://www.heterodox.se/projects/vaggrulle/)
 
-<!-- - [Watch pitch to IKEA on YouTube](https://www.youtube.com/watch?v=TODO) -->
+<!-- Uncomment and replace VIDEO_ID once the YouTube video is published:
+- [Watch pitch to IKEA on YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
+-->
 
 ## CAD files
 

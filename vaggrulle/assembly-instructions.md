@@ -19,9 +19,9 @@ You will also need:
 
 Pick a wall and a height that suits whoever will be writing on the unit most. The unit can be mounted high or low, on its own or above a desk.
 
-The wall should be smooth enough so it is easy to write on, and resilient to any leaking through the paper by ink pens or tip pressure from other types of pen.
+The wall should be smooth enough to write on comfortably, and resistant to ink bleed-through and to indentation from pen-tip pressure.
 
-If there are children present ensure the top shelf is out of their reach. They should not be able to reach the magnets or pens you place on the top small shelf (eg permanent markers).
+If there are children present, mount the unit so the top shelf is out of their reach. They should not be able to reach the magnets or any pens placed on the small upper shelf (e.g. permanent markers).
 
 The mounting wall must be capable of supporting the weight of the unit plus the paper roll and items placed on the shelves.
 
